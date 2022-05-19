@@ -776,7 +776,7 @@
           ]
         },
         {
-          "alias": "memtotal ($col)",
+          "alias": "buffers ($col)",
           "datasource": {
             "type": "influxdb",
             "uid": "Fr_u2kunk"
@@ -3241,6 +3241,6 @@
   "timezone": "",
   "title": "nmon_linux",
   "uid": "6Wma1zu7z",
-  "version": 53,
+  "version": 54,
   "weekStart": ""
 }
